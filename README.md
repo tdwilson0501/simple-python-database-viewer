@@ -1,2 +1,2 @@
-# simple-python-database-viewer
-Simple python database/SQLite viewer 
+# simple-python-database-viewer-PyQt5
+Simple python database/SQLite viewer with a PyQt5 interface
